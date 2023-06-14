@@ -1,0 +1,13 @@
+.pointer {
+    cursor: pointer;
+
+}
+ 
+.pointer:hover {
+    color: blue;
+}
+
+.borderColor:hover{
+    border:solid green 3px;
+
+}
